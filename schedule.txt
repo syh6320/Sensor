@@ -1,0 +1,37 @@
+Sat - We：
+
+1. get learn of this business
+	(1) official web
+	(2) contact their staff
+
+2. load up data into csv
+	(1) clean data  -- missing value, deal with Chinese characters, 
+	(2) read text by row/json
+	with open
+		for 
+		   try
+		       read
+		   excpet
+
+3. define what to discuss on group meeting
+
+    (0) post what questions we have
+
+	(1) get understand of data -- define features: name, which features
+	
+	(2) what statistical analysis to do 
+	
+
+On We:
+
+1. discuss 
+
+2. define what to do before Fr. meeting
+
+
+Th - Fr:
+
+1. 
+
+
+https://docs.google.com/document/d/1Ao9xriaS0rm9Fmd0T3TmWC366NAmcd73kDqJTbnhDMM/edit#
