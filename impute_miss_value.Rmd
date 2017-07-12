@@ -1,0 +1,23 @@
+---
+title: "impute_missing_value_sensors"
+author: "syh"
+date: "July 5, 2017"
+output: pdf_document
+---
+
+```{r}
+data <- read.csv(file = "data/sel_data_v1.csv",encoding = 'UTF-8')
+```
+
+```{r}
+library(mice)
+```
+
+```{r}
+md.pattern(data)
+```
+
+```{r}
+tem_data <- mice(data, method = 'rf')
+```
+
